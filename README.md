@@ -1,3 +1,8 @@
+# Vigilant Web
+For details on running the application see [Vigilant Readme](https://github.com/RyanRiffle/vigilant)
+
+-----------------
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
